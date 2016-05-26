@@ -66,5 +66,12 @@
 			<artifactId>joda-time</artifactId>
 			<version>2.9.3</version>
 		</dependency>
+		
+		<!-- 并发处理 -->
+		<dependency>
+			<groupId>com.lmax</groupId>
+			<artifactId>disruptor</artifactId>
+			<version>3.3.4</version>
+		</dependency>
 	</dependencies>
 </project>
